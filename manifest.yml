@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: Node_appu
    random-route: true
    memory: 256M
