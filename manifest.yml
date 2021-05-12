@@ -1,5 +1,5 @@
 ---
 applications:
- - name: Node_appu
+ - name: cd0201-8d9-nodesample
    random-route: true
    memory: 256M
